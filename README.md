@@ -1,3 +1,3 @@
-# ICS3U-Template-Python
+# ICS3U-Unit4-02-Python
 
-[![GitHub's Super Linter](https://github.com/Aleksandr-Ten/ICS3U-UnitX-YY-Python/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Aleksandr-Ten/ICS3U-UnitX-YY-Python/actions)
+[![GitHub's Super Linter](https://github.com/Aleksandr-Ten/ICS3U-Unit4-02-Python/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Aleksandr-Ten/ICS3U-Unit4-02-Python/actions)
